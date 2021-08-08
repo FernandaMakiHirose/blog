@@ -37,8 +37,11 @@ Criei o projeto:
 Subir a aplicação:
 >ng serve
 
-Criar um novo componente:
+Criar um componente:
 >ng g c nomedocomponente
+
+Criar um serviço:
+>ng g s pasta/nomedoserviço
 
 Instalei o Bootstrap:
 >npm i bootstrap
@@ -59,3 +62,9 @@ Os pacotes usados no Font Awesome: `Free Solid Icons`, `Free Regular Icons`, `Fr
 `app.component.html`: Apresenta os seletores, os seletores mostram o conteúdo do projeto. <br>
 `angular.json`: Nos `styles` adicionei o path do Bootstrap, nos `scripts` adicionei o path do Jquery, do Bootstrap e do Popper. <br>
 `navbar.component.html`: Adicionei o conteúdo do navbar, peguei o HTML na documentação do Bootstrap, coloquei o conteúdo dentro de uma `div` e adicione as páginas referentes aos links. <br>
+`footer`: Apresenta o footer do projeto, onde adicionei os ícones do Font Awesome, junto com um CSS. <br>
+`home`: Apresenta a home do projeto, onde adicionei uma breve introdução do projeto e um parallax. <br>
+`contato`: Apresenta o contato do projeto, onde adicionei um formulário. <br>
+`Post.ts`: Faz a comunicação com o Backend. <br>
+`app.module.ts`: Importei o HttpClientModule.
+`post.service.ts`: Apresenta métodos que faz a conexão com o banco de dados.
