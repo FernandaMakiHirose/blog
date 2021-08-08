@@ -14,6 +14,4 @@ Habilitei as dependências:
 >npm i json-server 
 
 Criei um script no package.json chamado start:
->   "scripts": {
->    "start": "json-server --watch db.json --port 3000"
->  },
+>"scripts": {"start": "json-server --watch db.json --port 3000"}
