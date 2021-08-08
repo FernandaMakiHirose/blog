@@ -50,10 +50,12 @@ Instalei o Popper:
 >npm i popper.js
 
 Instalei o Font Awesome:
->ng add @fortawesome/angular/fontawesome
+>ng add @fortawesome/angular/fontawesome <br>
 
 Os pacotes usados no Font Awesome: `Free Solid Icons`, `Free Regular Icons`, `Free Brands Icons`.
 
 ## Conteúdo bônus
-`app-routing.module`: Apresenta todas as rotas do projeto.
-`app.component.html`: Apresenta os seletores, os seletores mostram o conteúdo do projeto. 
+`app-routing.module`: Apresenta todas as rotas do projeto. <br>
+`app.component.html`: Apresenta os seletores, os seletores mostram o conteúdo do projeto. <br>
+`angular.json`: Nos `styles` adicionei o path do Bootstrap, nos `scripts` adicionei o path do Jquery, do Bootstrap e do Popper. <br>
+`navbar.component.html`: Adicionei o conteúdo do navbar, peguei o HTML na documentação do Bootstrap e coloquei o conteúdo dentro de uma `div`. <br>
