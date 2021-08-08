@@ -39,3 +39,21 @@ Subir a aplicação:
 
 Criar um novo componente:
 >ng g c nomedocomponente
+
+Instalei o Bootstrap:
+>npm i bootstrap
+
+Instalei o JQuery:
+>npm i jquery@~3.4.1
+
+Instalei o Popper:
+>npm i popper.js
+
+Instalei o Font Awesome:
+>ng add @fortawesome/angular/fontawesome
+
+Os pacotes usados no Font Awesome: `Free Solid Icons`, `Free Regular Icons`, `Free Brands Icons`.
+
+## Conteúdo bônus
+`app-routing.module`: Apresenta todas as rotas do projeto.
+`app.component.html`: Apresenta os seletores, os seletores mostram o conteúdo do projeto. 
