@@ -14,7 +14,8 @@ Habilitei as dependências:
 >npm i json-server 
 
 Criei um script no `package.json chamado` start:
->"scripts": {"start": "json-server --watch db.json --port 3000"}
-Obs: o nome da aplicação é `json-server`, o arquivo é o `db.json` na porta `3000`.
+>"scripts": {"start": "json-server --watch db.json --port 3000"} <br>
+
+Obs: o nome da aplicação é `json-server`, o arquivo é o `db.json` na porta `3000`. <br>
 
 Criei o arquivo `db.json` que é usado como banco de dados.
