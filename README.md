@@ -18,4 +18,17 @@ Criei um script no `package.json chamado` start:
 
 Obs: o nome da aplicação é `json-server`, o arquivo é o `db.json` na porta `3000`. <br>
 
-Criei o arquivo `db.json` que é usado como banco de dados.
+Criei o arquivo `banco.json` que é usado como banco de dados.
+
+### Frontend 
+Instalei o Angular:
+>npm i -g @angular/cli
+
+Você gostaria de usar os recursos de rotas do Angular? `sim`.
+Que formato de folha de estilo você quer usar? `CSS`.
+
+Criei o projeto:
+>ng new blog
+
+Subir a aplicação:
+>ng serve
