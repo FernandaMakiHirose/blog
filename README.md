@@ -1,4 +1,5 @@
 # Desenvolvendo seu blog com as tecnologias de Java e Angular
+Neste projeto tive o desafio de construir uma API com Json-Server que consome os dados em um feed de mensagens desenvolvido em Angular.
 
 ## Pré-requisitos
 - Lógica de programação.
