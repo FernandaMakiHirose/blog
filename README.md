@@ -9,6 +9,9 @@
 Dentro da pasta `blog` da pasta `frontend`:
 >npm install
 
+Para executar o programa (no mesmo caminho acima):
+>ng serve
+
 ## Como eu desenvolvi esse projeto?
 ### Backend
 Habilitei o Package.json:
