@@ -5,6 +5,10 @@
 - HTML5, CSS3.
 - JavaScript.
 
+## Comandos para executar no projeto
+Dentro da pasta `blog` da pasta `frontend`:
+>npm install
+
 ## Como eu desenvolvi esse projeto?
 ### Backend
 Habilitei o Package.json:
@@ -24,7 +28,7 @@ Criei o arquivo `banco.json` que é usado como banco de dados.
 Instalei o Angular:
 >npm i -g @angular/cli
 
-Você gostaria de usar os recursos de rotas do Angular? `sim`.
+Você gostaria de usar os recursos de rotas do Angular? `sim`. <br>
 Que formato de folha de estilo você quer usar? `CSS`.
 
 Criei o projeto:
@@ -32,3 +36,6 @@ Criei o projeto:
 
 Subir a aplicação:
 >ng serve
+
+Criar um novo componente:
+>ng g c nomedocomponente
