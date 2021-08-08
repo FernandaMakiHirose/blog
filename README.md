@@ -66,5 +66,6 @@ Os pacotes usados no Font Awesome: `Free Solid Icons`, `Free Regular Icons`, `Fr
 `home`: Apresenta a home do projeto, onde adicionei uma breve introdução do projeto e um parallax. <br>
 `contato`: Apresenta o contato do projeto, onde adicionei um formulário. <br>
 `Post.ts`: Faz a comunicação com o Backend. <br>
-`app.module.ts`: Importei o HttpClientModule.
-`post.service.ts`: Apresenta métodos que faz a conexão com o banco de dados.
+`app.module.ts`: Importei o HttpClientModule. <br>
+`post.service.ts`: Apresenta os métodos dos posts.
+`feed.component.ts`: Apresenta a ligação com o `post.service.ts`, importando o service e o model.
